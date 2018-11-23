@@ -1,7 +1,6 @@
 # Created by https://www.gitignore.io/api/eclipse
 ### Eclipse ###
 
-UserComportament/src/main/java/br/ufrn/imd/files/*.csv
 .metadata
 bin/
 tmp/
